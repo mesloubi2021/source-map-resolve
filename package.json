@@ -31,7 +31,7 @@
     "decode-uri-component": "^0.2.2"
   },
   "devDependencies": {
-    "jshint": "2.10.3",
+    "jshint": "2.13.6",
     "tape": "4.12.1"
   }
 }
